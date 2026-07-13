@@ -1,5 +1,3 @@
-# 👋Hi there I'm a Python 
-
 # 👋 Hi, I'm Rakib Hasan
 
 ### 🚀 Python Backend Developer | Django & DRF Developer
@@ -57,3 +55,6 @@ Currently, I am learning new technologies and exploring better ways to build rel
 <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
 </a>
 </p>
+
+⭐Thank you for visiting my GitHub profile!
+
