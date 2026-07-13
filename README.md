@@ -51,10 +51,6 @@ Currently, I am learning new technologies and exploring better ways to build rel
 <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
 </a>
 
-https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat
-
-
-
 <a href="https://www.linkedin.com/in/rakib-hasan-a269a6403/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bc9m1%2BZ08S66pr66%2BrQyi6w%3D%3D">
 <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
 </a>
