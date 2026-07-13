@@ -1,13 +1,12 @@
-# 👋Hi there, I'm a Python Developer!
 
-
-Welcome to my GitHub profile! I'm passionate about building clean, scalable, and efficient backend applications with Python and Django.
 
 <h1 align="center">Hi 👋, I'm Rakib Hasan</h1>
 <h3 align="center">🚀 Python Backend Developer | Django & DRF Enthusiast</h3>
 
 <p align="center">
   Passionate about building scalable, secure, and efficient backend applications.
+  Welcome to my GitHub profile! I'm passionate about building clean, scalable, and efficient backend applications with Python and Django.
+
 </p>
 
 ---
