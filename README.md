@@ -37,18 +37,23 @@ Currently, I am learning new technologies and exploring better ways to build rel
 - ⚡ Exploring system design and backend optimization
 - 📚 Improving my Django and backend development skills
 
-  ## 📫 Connect With Me
+
+
+📫 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+
+<a href="https://www.facebook.com/share/1LSo2fjq41/">
+<img src="https://img.icons8.com/color/48/facebook-new.png" width="40"/>
+  
+</a>
+<a href="mailto:mrakibh67@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" width="40"/>
-</a>
 
-<a href="YOUR_GITHUB_LINK">
-<img src="https://skillicons.dev/icons?i=github" width="40"/>
+
+<a href="https://www.linkedin.com/in/rakib-hasan-a269a6403/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bc9m1%2BZ08S66pr66%2BrQyi6w%3D%3D">
+<img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
 </a>
 </p>
