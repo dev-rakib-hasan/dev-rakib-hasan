@@ -1,7 +1,7 @@
-## Hi there 👋
+# 👋Hi there, I'M A Python Developer!
 
-<!--
-**dev-rakib-hasan/dev-rakib-hasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**Welcome to my GitHub profile! I'm passionate about building clean, scalable, and efficient backend applications with Python and Django.
 
 Here are some ideas to get you started:
 
