@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rakib Hasan
 
-### 🚀 Python Backend Developer | Django & DRF Developer
+### 🚀 Backend Developer | Python Django & DRF
 
 Welcome to my GitHub profile! I'm passionate about building clean, scalable, and efficient backend applications with Python and Django.
 
