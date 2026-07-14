@@ -1,4 +1,6 @@
-https://media.licdn.com/dms/image/v2/D5616AQHvxstIELrzxQ/profile-displaybackgroundimage-shrink_350_1400/B56Z9b5piFHcAU-/0/1783953267107?e=1785369600&v=beta&t=oWtstMc_2AbqZaYmro4YfYudYiOcuctplZaadYtQwHc
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQHvxstIELrzxQ/profile-displaybackgroundimage-shrink_350_1400/B56Z9b5piFHcAU-/0/1783953267107?e=1785369600&v=beta&t=oWtstMc_2AbqZaYmro4YfYudYiOcuctplZaadYtQwHc" alt="Banner" width="100%" />
+</p>
 
 # 👋 Hi, I'm Rakib Hasan
 
