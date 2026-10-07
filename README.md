@@ -1,60 +1,119 @@
-# 👋 Hi, I'm Rakib Hasan 
+<div align="center">
 
-### 🚀 Backend Developer | Python Django & DRF
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00E5A0&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rakib+Hasan+%F0%9F%91%8B;Backend+Developer+%7C+Python+%26+Django;Building+clean%2C+scalable+APIs;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 
-Welcome to my GitHub profile! I'm passionate about building clean, scalable, and efficient backend applications with Python and Django.
+<br/>
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-## 💻 Skills & Technologies
+![Profile Views](https://komarev.com/ghpvc/?username=dev-rakib-hasan&label=Profile+Views&color=00e5a0&style=flat-square)
 
-- 🐍 Python
-- 🌐 Django
-- 🔗 Django REST Framework (DRF)
-- ⚙️ Celery (Basic)
-- 🚀 Redis (Basic)
-- 🔌 REST API Development
-- 🗄️ PostgreSQL / SQLite
-- 🔧 Git & GitHub
+</div>
 
 ---
 
-## 📌 About Me
+## 🧑‍💻 `GET /api/v1/developers/rakib-hasan/`
 
-I'm a Python Backend Developer passionate about building clean, scalable, and efficient web applications.
-I specialize in Python, Django, and Django REST Framework to develop backend systems and RESTful APIs.
-I enjoy working with databases, designing APIs, and improving my backend development skills.
+```json
+{
+  "status": 200,
+  "data": {
+    "name": "Rakib Hasan",
+    "role": "Backend Developer",
+    "stack": ["Python", "Django", "Django REST Framework"],
+    "database": ["PostgreSQL", "SQLite"],
+    "learning": ["Celery", "Redis", "System Design"],
+    "currently_building": "Secure, scalable RESTful APIs",
+    "open_to": ["collaboration", "learning", "good coffee ☕"]
+  }
+}
+```
 
-Currently, I am learning new technologies and exploring better ways to build reliable software solutions.
+---
 
+## 🐍 `class Rakib(BackendDeveloper):`
 
-## 🚀 What I'm Working On
+```python
+class Rakib(BackendDeveloper):
+    name = "Rakib Hasan"
+    stack = ["Python", "Django", "DRF"]
+    mindset = "Write clean code. Ship. Improve. Repeat."
 
-- 🔥 Developing RESTful APIs using Django & DRF
-- 🔐 Working with authentication and permission systems
-- ⚡ Exploring system design and backend optimization
-- 📚 Improving my Django and backend development skills
+    def working_on(self):
+        return [
+            "RESTful APIs with Django & DRF",
+            "Authentication & permission systems",
+            "System design & backend optimization",
+        ]
 
+    def philosophy(self):
+        while True:
+            self.learn()
+            self.build()
+            self.refactor()
+```
 
+---
 
+## 🛠️ Tech Stack
 
+<div align="center">
 
-📫 Connect With Me
+<img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite,redis,git,github,linux,vscode&theme=dark" alt="skills" />
 
-<p align="left">
+</div>
 
-<a href="https://www.facebook.com/md.rakib.hasan.212504">
-<img src="https://img.icons8.com/color/48/facebook-new.png" width="40"/>
-  
-</a>
-<a href="mailto:mrakibh67@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
-</a>
+| Area | Level |
+|------|-------|
+| 🐍 Python | ██████████░ Strong |
+| 🌐 Django & DRF | █████████░░ Strong |
+| 🗄️ PostgreSQL / SQLite | ███████░░░░ Good |
+| ⚙️ Celery | ████░░░░░░░ Learning |
+| 🚀 Redis | ████░░░░░░░ Learning |
 
-<a href="https://www.linkedin.com/in/rakib-hasan-a269a6403/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bc9m1%2BZ08S66pr66%2BrQyi6w%3D%3D">
-<img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
-</a>
-</p>
+---
 
-⭐Thank you for visiting my GitHub profile!
+## 🎯 Current Focus
 
+- 🔥 RESTful APIs with Django & DRF
+- 🔐 Authentication and permission systems
+- ⚡ System design and backend optimization
+- 📈 Leveling up my Django and backend skills every day
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-rakib-hasan&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rakib-hasan&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com/?user=dev-rakib-hasan&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-dev--rakib--hasan-181717?style=for-the-badge&logo=github)](https://github.com/dev-rakib-hasan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakib-hasan-a269a6403/)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.rakib.hasan.212504)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrakibh67@gmail.com)
+
+<br/>
+
+> *"First, solve the problem. Then, write the code."*
+
+⭐ Thank you for visiting my GitHub profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5a0,100:0a0e14&height=100&section=footer" width="100%" />
+
+</div>
