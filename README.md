@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e14,100:00bfff&height=200&section=header&text=Rakib%20Hasan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%26%20Django&descAlignY=58&descSize=18" width="100%" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00E5A0&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rakib+Hasan+%F0%9F%91%8B;Backend+Developer+%7C+Python+%26+Django;Building+clean%2C+scalable+APIs;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
@@ -101,14 +99,6 @@ class Rakib(BackendDeveloper):
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0a0e14,100:00bfff&height=120&section=header&text=Let's%20Build%20Something%20Great&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=50" width="100%" />
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -124,6 +114,6 @@ class Rakib(BackendDeveloper):
 
 ⭐ Thank you for visiting my GitHub profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e14,100:00bfff&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5a0,100:0a0e14&height=100&section=footer" width="100%" />
 
 </div>
