@@ -10,7 +10,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e14,50:00bfff,100:0a0e14&height=160&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,50:38b6ff,100:87ceeb&height=160&section=footer" width="100%" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dev-rakib-hasan&label=Profile+Views&color=00e5a0&style=flat-square)
 
