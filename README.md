@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d51,50:1d4ed8,100:38bdf8&height=220&section=header&text=Rakib%20Hasan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Python%20%C2%B7%20Django%20%C2%B7%20DRF&descSize=18&descAlignY=60" width="100%" alt="Rakib Hasan - Backend Developer" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00E5A0&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rakib+Hasan+%F0%9F%91%8B;Backend+Developer+%7C+Python+%26+Django;Building+clean%2C+scalable+APIs;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
@@ -104,13 +106,13 @@ class Rakib(BackendDeveloper):
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-dev--rakib--hasan-181717?style=for-the-badge&logo=github)](https://github.com/dev-rakib-hasan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-USERNAME)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakib-hasan-a269a6403/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrakibh67@gmail.com)
 
 <br/>
 
 > *"First, solve the problem. Then, write the code."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5a0,100:0a0e14&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1d4ed8,100:0b1d51&height=100&section=footer" width="100%" />
 
 </div>
