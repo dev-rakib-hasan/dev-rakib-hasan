@@ -99,6 +99,14 @@ class Rakib(BackendDeveloper):
 
 ---
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0a0e14,100:00bfff&height=120&section=header&text=Let's%20Build%20Something%20Great&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=50" width="100%" />
+
+</div>
+
+---
+
 ## 📫 Connect With Me
 
 <div align="center">
