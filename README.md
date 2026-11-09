@@ -95,16 +95,16 @@ class Rakib(BackendDeveloper):
 <!-- Cache bust: stats refresh korte chaile v=2 ke v=3, v=4 ... kore bodlao -->
 
 <a href="https://github.com/dev-rakib-hasan">
-  <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dev-rakib-hasan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&v=2" />
+  <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dev-rakib-hasan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&v=3" />
 </a>
 <a href="https://github.com/dev-rakib-hasan">
-  <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rakib-hasan&layout=compact&theme=tokyonight&hide_border=true&v=2" />
+  <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rakib-hasan&layout=compact&theme=radical&hide_border=true&v=3" />
 </a>
 
 <br/>
 
 <a href="https://github.com/dev-rakib-hasan">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=dev-rakib-hasan&theme=tokyonight&hide_border=true&v=2" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=dev-rakib-hasan&theme=radical&hide_border=true&v=3" />
 </a>
 
 </div>
