@@ -92,10 +92,20 @@ class Rakib(BackendDeveloper):
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-rakib-hasan&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rakib-hasan&layout=compact&theme=tokyonight&hide_border=true" />
+<!-- Cache bust: stats refresh korte chaile v=2 ke v=3, v=4 ... kore bodlao -->
 
-<img src="https://streak-stats.demolab.com/?user=dev-rakib-hasan&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/dev-rakib-hasan">
+  <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dev-rakib-hasan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&v=2" />
+</a>
+<a href="https://github.com/dev-rakib-hasan">
+  <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rakib-hasan&layout=compact&theme=tokyonight&hide_border=true&v=2" />
+</a>
+
+<br/>
+
+<a href="https://github.com/dev-rakib-hasan">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=dev-rakib-hasan&theme=tokyonight&hide_border=true&v=2" />
+</a>
 
 </div>
 
